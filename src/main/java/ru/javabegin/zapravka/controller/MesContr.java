@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MesContr {
     @GetMapping
     String home() {
-        return "Hello Slava!12";
+        return "Hello Slava!123";
     }
 }
